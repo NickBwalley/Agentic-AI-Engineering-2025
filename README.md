@@ -51,3 +51,15 @@ Be sure to have fun with the course! You could not have picked a better time to 
 ```
 uv sync
 ```
+
+2. run your `app.py`
+
+```
+uv run `your_app_name.py`
+```
+
+3. Deploying your application on `https://huggingface.co`
+
+```
+uv run gradio deploy
+```
