@@ -12,12 +12,32 @@ First, if you haven't already, install uv:
 pip install uv
 ```
 
+## Other useful commands
+
+```bash
+uv run app.py
+```
+
+- Note if gradio is not installed then do
+
+```bash
+uv add gradio
+```
+
+- then run
+
+```bash
+uv run app.py
+```
+
 Next, navigate to your project directory and install the dependencies:
 
 (Optional) Lock the dependencies and install them by using the CLI command:
+
 ```bash
 crewai install
 ```
+
 ### Customizing
 
 **Add your `OPENAI_API_KEY` into the `.env` file**
@@ -46,6 +66,7 @@ The engineering_team Crew is composed of multiple AI agents, each with unique ro
 ## Support
 
 For support, questions, or feedback regarding the EngineeringTeam Crew or crewAI.
+
 - Visit our [documentation](https://docs.crewai.com)
 - Reach out to us through our [GitHub repository](https://github.com/joaomdmoura/crewai)
 - [Join our Discord](https://discord.com/invite/X4JWnZnxPb)
