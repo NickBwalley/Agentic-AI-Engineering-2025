@@ -1,0 +1,10 @@
+linkedin_profile_finder_task:
+  description: >
+    • Investigate {topic} in depth and surface the 10 most salient insights (facts, trends,
+      stats, or best practices), each expressed as a single bullet point.  
+    • Leverage the linkedin_profile_finder agent to identify 5-10 high-quality LinkedIn
+      profiles tightly aligned with the same {topic}.
+  expected_output: >
+    A list with 10 bullet points of the most relevant information about {topic} and 5-10 LinkedIn profiles that are closely match the topic.
+  agent: linkedin_profile_finder
+  output_file: output/linkedin_profile_finder_output.md

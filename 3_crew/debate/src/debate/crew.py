@@ -50,6 +50,9 @@ class Debate():
         return Crew(
             agents=self.agents, # Automatically created by the @agent decorator
             tasks=self.tasks, # Automatically created by the @task decorator
-            process=Process.sequential,
+            process=Process.sequential, # Process.sequential executes tasks one after another in a linear order.
+                                        # In contrast, Process.hierarchical would allow for tasks to be executed
+                                        # in a structured manner where some tasks depend on the completion of others,
+                                        # allowing for more complex workflows.
             verbose=True,
         )

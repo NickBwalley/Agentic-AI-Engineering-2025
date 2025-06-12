@@ -1,0 +1,23 @@
+[project]
+name = "linkedin_profile_finder"
+version = "0.1.0"
+description = "linkedin_profile_finder using crewAI"
+authors = [{ name = "Your Name", email = "you@example.com" }]
+requires-python = ">=3.10,<3.14"
+dependencies = [
+    "crewai[tools]>=0.126.0,<1.0.0"
+]
+
+[project.scripts]
+linkedin_profile_finder = "linkedin_profile_finder.main:run"
+run_crew = "linkedin_profile_finder.main:run"
+train = "linkedin_profile_finder.main:train"
+replay = "linkedin_profile_finder.main:replay"
+test = "linkedin_profile_finder.main:test"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.crewai]
+type = "crew"
