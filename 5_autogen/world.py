@@ -3,10 +3,12 @@ from agent import Agent
 from creator import Creator
 from autogen_ext.runtimes.grpc import GrpcWorkerAgentRuntime
 from autogen_core import AgentId
+from dotenv import load_dotenv
+load_dotenv(override=True)
 import messages
 import asyncio
 
-HOW_MANY_AGENTS = 20
+HOW_MANY_AGENTS = 10
 
 async def create_and_message(worker, creator_id, i: int):
     try:
