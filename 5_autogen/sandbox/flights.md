@@ -1,28 +1,31 @@
-Flight Deals from JFK to LHR - June 2025:
+# One-Way Flights from JKIA to ARN in August 2025
 
-1. Airline: Virgin Atlantic
-   - Price: $497
-   - Non-stop
-   - In-flight amenities: meals, drinks, entertainment, WiFi
+## Flight Deals:
 
-2. Airline: JetBlue
-   - Price: $314
-   - Non-stop
-   - Booking available now
+1. **Kenya Airways**  
+   - **Price:** $723  
+   - **Notes:** Direct flight; pricing confirmed for one-way.  
+   - **Estimated SEK equivalent:** 7,700 SEK  
+   - **Estimated KES equivalent:** 106,000 KES  
 
-3. Airline: Delta
-   - Price: $239
-   - Non-stop
-   - Additional services: earns airline miles
+2. **Ethiopian Airlines**  
+   - **Price:** $486  
+   - **Notes:** Connecting flight; price includes taxes and charges.  
+   - **Estimated SEK equivalent:** 5,400 SEK  
+   - **Estimated KES equivalent:** 75,000 KES  
 
-4. Airline: SWISS
-   - Price: $402
-   - Non-stop
-   - Comfortable seating and great service
+3. **Lufthansa**  
+   - **Price Range:** $910 - $1,750  
+   - **Notes:** Varies based on flight times and connections.  
+   - **Estimated SEK equivalent:** 9,800 - 18,400 SEK  
+   - **Estimated KES equivalent:** 136,000 - 250,000 KES  
 
-5. Airline: United Airlines
-   - Price: $450
-   - Non-stop
-   - Great onboard experience
+4. **KLM**  
+   - **Price Range:** $920 - $1,650  
+   - **Notes:** Similar situation to Lufthansa, varying prices based on specifics.  
+   - **Estimated SEK equivalent:** 10,000 - 18,000 SEK  
+   - **Estimated KES equivalent:** 138,000 - 248,000 KES  
 
-Best Deal: JetBlue at $314 for a non-stop flight from JFK to LHR. 
+---
+
+Please consider booking in advance as prices may vary.
